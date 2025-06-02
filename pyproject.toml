@@ -1,0 +1,14 @@
+[project]
+dependencies = [
+  "pandas",
+  "notebook",
+  "jupyterlab",
+  "ipykernel",
+  "matplotlib",
+  "seaborn",
+  "scikit-learn",
+  "openpyxl",
+]
+description = "Assignment 1 project"
+name = "assignment1"
+version = "0.1.0"
